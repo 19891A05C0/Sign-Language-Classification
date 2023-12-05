@@ -17,5 +17,3 @@ After training run test.py.
 
 
 
-
-https://youtu.be/wa2ARoUUdU8 
